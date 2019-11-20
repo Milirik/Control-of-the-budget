@@ -1,0 +1,35 @@
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\bin\Debug\Uchet Rashodov.exe.config
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\bin\Debug\Uchet Rashodov.exe
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\bin\Debug\Uchet Rashodov.pdb
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet Rashodov.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Enter.resources
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet Rashodov.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet Rashodov.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet Rashodov.exe
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet Rashodov.pdb
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet_Rashodov.MainMenu.resources
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Registration.resources
+C:\Users\Кирилл\Desktop\Лабораторная номер 3 по ИСРППС\Uchet Rashodov\obj\Debug\Uchet_Rashodov.CreateNew.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Uchet Rashodov.exe.config
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Uchet Rashodov.exe
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Uchet Rashodov.pdb
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.csprojAssemblyReference.cache
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.CreateNew.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Enter.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.MainMenu.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Properties.Resources.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Registration.resources
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.csproj.GenerateResource.cache
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.exe
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.pdb
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\BouncyCastle.Crypto.dll
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Google.Protobuf.dll
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\MySql.Data.dll
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Renci.SshNet.dll
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Google.Protobuf.xml
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\MySql.Data.xml
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\bin\Debug\Renci.SshNet.xml
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.csproj.CopyComplete
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet Rashodov.csproj.CoreCompileInputs.cache
+D:\Лаба ИСРППС\Лаба №3\Uchet Rashodov\obj\Debug\Uchet_Rashodov.Delete.resources
